@@ -1,0 +1,18 @@
+E:\Visual Studio Projects\winform\Login\Login\bin\Debug\Login.exe.config
+E:\Visual Studio Projects\winform\Login\Login\bin\Debug\Login.exe
+E:\Visual Studio Projects\winform\Login\Login\bin\Debug\Login.pdb
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.exe
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.pdb
+E:\Visual Studio Projects\winform\Login\Login\obj\Debug\Login.LoginForm.resources
+E:\DATAQ\开发4\Login\Login\Login\bin\Debug\Login.exe.config
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.exe
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.pdb
+E:\DATAQ\开发4\Login\Login\Login\bin\Debug\Login.exe
+E:\DATAQ\开发4\Login\Login\Login\bin\Debug\Login.pdb
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.LoginForm.resources
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\DATAQ\开发4\Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
